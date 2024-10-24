@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Jersey+10&family=NTR&family=Pacifico&display=swap');
+*{
+    padding: 5px;
+    margin: 5px;
+    font-family: "Abel", sans-serif;
+}
+.container{
+    width: 900px;
+    background-color: rgba(198, 64, 224, 0.466);
+    margin-top: 5;
+    margin-right: auto;
+    margin-bottom: 3;
+    margin-left: auto;
+    border-radius: 30px;
+    border: 5px solid rgb(152, 219, 250);
+    box-shadow: 0 0 25px rgb(248, 18, 160);
+}
+.header{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    width: 800px;
+    height: 6s00px;
+}
+.siderbar1{
+    
+    width: 400px;
+    height: 415px;
+    background-color: #4205b4;
+    border-radius: 50px;
+    border: 4px solid rgb(223, 224, 217);
+    box-shadow: 0 0 50px rgb(130, 128, 236);
+    float: right;
+    text-align: justify;
+}
+.content{
+    background-color: #0ce2d06b;
+    border-radius: 30px;
+    border: 4px solid rgb(48, 158, 248);
+    box-shadow: 0 0 20px rgb(58, 109, 219);
+    width: 450px;
+    text-align: justify;
+}
